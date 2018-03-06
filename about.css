@@ -1,0 +1,62 @@
+
+#about-jumbotron {
+    display: flex;
+    align-items: center;
+    background-image: url('./images/roofwork.jpg');
+    background-size: cover;
+    color: #ffffff;
+    height: 380px;
+    text-shadow: 1px 1px 1px #000000;
+    position: relative;
+    margin-top: 5%;
+}
+
+/* Main About Section */
+
+#main-section {
+    margin-top: -3%;
+    background-color: #f3f1f1;
+}
+
+#main-inner {
+    margin-top: 8%;
+    margin-bottom: 8%;
+    padding: 0 5%;
+}
+
+.about-content {
+    margin-left: 4%;
+}
+
+#main-section h3 {
+    font-weight: 500;
+    font-size: 28px;
+    margin-top: 0;
+}
+
+#main-section p {
+    font-size: 16px;
+    margin-top: 5%;
+}
+
+/* Coverage Banner */
+
+#coverage-banner {
+    margin-top: 1.5%;
+    margin-bottom: 1%;
+    background-color: #fff;
+}
+
+#coverage-banner iframe {
+    margin-left: 3%;
+}
+
+#coverage-banner p {
+    margin-top: 7%;
+    font-size: 16px;
+    padding-right: 5%;
+}
+
+.contact-details {
+    margin-top: 10%;
+}

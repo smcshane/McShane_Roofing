@@ -1,0 +1,71 @@
+
+#contact-jumbotron {
+    display: flex;
+    align-items: center;
+    background-image: url('./images/templatehouse.jpg');
+    background-size: cover;
+    color: #ffffff;
+    height: 380px;
+    text-shadow: 1px 1px 1px #000000;
+    position: relative;
+    margin-top: 5%;
+}
+
+#main-contact {
+    margin-top: 8%;
+    margin-bottom: 8%;
+}
+
+#main-inner {
+    padding: 0 8% 0 4%;
+}
+
+/* Contact form */
+
+#contact-form {
+    border-radius: 8px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    box-shadow: 0px 3px 15px rgba(0,0,0,0.4);
+    font-size: 15px;
+}
+
+/* Input Styling */
+input[type=text], select, textarea {
+    width: 100%; /* Full width */
+    padding: 12px;  
+    border: 1px solid #ccc;
+    border-radius: 4px; 
+    box-sizing: border-box; 
+    margin-top: 6px;
+    margin-bottom: 16px; 
+    resize: vertical; /* Allow the user to vertically resize the textarea (not horizontally) */
+}
+
+#form-bottom {
+    padding: 0 2%;
+}
+
+/* Submit Button */
+input[type=submit] {
+    background-color: rgb(27, 28, 100);
+    color: white;
+    padding: 12px 20px;
+    border: solid;
+    border-radius: 10%;
+    cursor: pointer;
+}
+input[type=submit]:hover {
+    background-color: #fff;
+    color: rgb(27, 28, 100);
+    border-color: rgb(27, 28, 100);
+}
+
+#contact-info {
+    margin-top: 8%;
+    margin-left: 2%;
+}
+
+#contact-info h4 { 
+    font-size: 18px;
+}

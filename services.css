@@ -1,0 +1,53 @@
+
+#services-jumbotron {
+    display: flex;
+    align-items: center;
+    background-image: url('./images/roofers.jpg');
+    background-size: cover;
+    color: #ffffff;
+    height: 380px;
+    text-shadow: 1px 1px 1px #000000;
+    position: relative;
+    margin-top: 5%;
+}
+
+/* Main service section */
+
+#services-main {
+    margin-top: 0;
+}
+
+#services-inner {
+    margin-top: 2%;
+    margin-bottom: 5%;
+    padding: 0 5%;
+}
+
+.nav-tabs .nav-title {
+    font-size: 20px;
+    color: rgb(27, 28, 100);
+}
+
+.tab-content {
+    margin-top: 5%;
+}
+
+.tab-content h3 {
+    margin-top: 0;
+    margin-bottom: 5%;
+    font-weight: 500;
+    font-size: 28px;
+}
+
+.services-image {
+    min-height: 270px;
+}
+
+.tab-content p {
+    font-size: 18px;
+    margin-top: 5%;
+}
+
+.services-content { 
+    padding: 0 7% 0 5%;
+}
