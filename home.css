@@ -541,23 +541,19 @@ footer {
     header .nav-btn {
         margin: 0 0 0 -1%;
         display: inline-block;
-        font-size: 25px;
-        color: #787e80;
-        padding: 4% 5%;
-        border-radius: 0;
-        border-right: solid 1px #a1a5a7;
-        border-left: solid 1px #a1a5a7;
+        font-size: 32px;
+        padding: 6% 8%;
+        border-right: solid 2px #a1a5a7;
+        border-left: solid 2px #a1a5a7;
     }
     #phone-btn {
         display: inline-block;
-        font-size: 22px;
+        font-size: 30px;
         margin-left: 2%;
         margin-right: 2%;
         color:#fff;
+        display: right;
     }
-
-
-
     .secondary-filter {
         left: 0;
         height: 350px;
