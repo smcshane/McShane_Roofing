@@ -522,3 +522,30 @@ footer {
     font-size: 15px;
     margin-top: 12%;
 }
+
+@media only screen and (min-width: 320px) and (max-width: 600px), (orientation: portrait) {
+    .secondary-filter {
+        width: 100%;
+        opacity: 0.4;
+        position: relative;
+        z-index: 0;
+    }
+    .secondary-filter {
+        height: 380px;
+        width: 100%;
+        background-color: #000;
+        opacity: 0.4;
+        position: relative;
+        z-index: 0;
+    }
+    h2 {
+        font-size: 45px;
+    }
+    h4 {
+        font-size: 30px;
+    }
+    .icons p {
+        color: #787e80;
+        font-size: 28px;
+    }
+}
