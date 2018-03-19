@@ -527,6 +527,7 @@ footer {
 @media only screen and (min-width: 320px) and (max-width: 600px), (orientation: portrait) {
     #home-jumbotron #filter {
         left: 0;
+        top: 0;
         height: 555px;
         width: 100%;
         background-color: #000;
@@ -542,7 +543,7 @@ footer {
         margin: 0 0 0 -1%;
         display: inline-block;
         font-size: 32px;
-        padding: 6% 8%;
+        padding: 6% 7%;
         border-right: solid 2px #a1a5a7;
         border-left: solid 2px #a1a5a7;
     }
@@ -556,7 +557,8 @@ footer {
     }
     .secondary-filter {
         left: 0;
-        height: 350px;
+        top: 0;
+        height: 380px;
         width: 100%;
         background-color: #000;
         opacity: 0.4;
