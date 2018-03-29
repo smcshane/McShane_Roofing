@@ -614,11 +614,14 @@ footer {
     }
 
     /* Collage Section */
+    #second-section {
+        padding: 0 -2%;
+    }
     #second-section h2 {
         margin-top: 7%;
     }
     #second-inner {
-        margin: 6% -3%;
+        margin: 6% 0;
         padding: 0 0;
         overflow: hidden;
     }
