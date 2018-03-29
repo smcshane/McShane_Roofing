@@ -695,6 +695,7 @@ footer {
     } 
 
     footer .container {
-        padding-right: -50%;
+        margin-right: -5%;
+        margin-left: -5%;
     }
 }
