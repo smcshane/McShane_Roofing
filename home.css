@@ -302,7 +302,7 @@ header .nav-btn:hover {
     display: block;
     height:100%;
     width: 100%;
-    padding: 15% 26% 0 26%;
+    padding: 15% 24% 0 24%;
     color: rgb(27, 28, 100);
     -webkit-transition: background-color 0.3s ease-out;
     -moz-transition: background-color 0.3s ease-out;
