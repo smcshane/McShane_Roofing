@@ -302,7 +302,7 @@ header .nav-btn:hover {
     display: block;
     height:100%;
     width: 100%;
-    padding: 15% 27% 0 27%;
+    padding: 15% 26% 0 26%;
     color: rgb(27, 28, 100);
     -webkit-transition: background-color 0.3s ease-out;
     -moz-transition: background-color 0.3s ease-out;
@@ -640,41 +640,6 @@ footer {
         display: inline-block;
         padding: 7px;
     }
-
-    /* Third Section - Testimonails */
-    #third-inner {
-        margin-bottom: 5%;
-        margin-top: 4%;
-    }
-    #third-inner h4 {
-        padding-top: 1%;
-    }
-    /* Control buttons  */
-    #third-inner .carousel-control {
-        color: rgb(27, 28, 100);
-        font-size: 24px;
-    }
-    #third-inner .left {
-        margin-top: -28%;
-        left: -15%;
-        
-    }
-    #third-inner .right {
-        margin-top: -26%;    
-        right: -15%;
-    }
-    /* Business Icon Section */
-    #business-inner {
-        padding: 5% 3%;
-    }
-    .business-icons .img-responsive {
-        width: 70%;
-        margin-left: auto;
-        margin-right: auto;
-    } 
-
-
-
     #second-section .right {
         margin-top: -50%;
         margin-right: -10%;
@@ -682,7 +647,7 @@ footer {
     
     #second-section .left {
         margin-top: 50%;
-        margin-left: -10%;
+        margin-left: -12%;
     }
     
     .up {
@@ -698,4 +663,36 @@ footer {
         margin-left: 45%;
         margin-bottom: -8%;
     }
+
+    /* Third Section - Testimonails */
+    #third-inner {
+        margin-bottom: 5%;
+        margin-top: 4%;
+    }
+    #third-inner h4 {
+        padding-top: 1%;
+    }
+    #third-inner .carousel-control {
+        color: rgb(27, 28, 100);
+        font-size: 24px;
+    }
+    #third-inner .left {
+        margin-top: -28%;
+        left: -15%;
+        
+    }
+    #third-inner .right {
+        margin-top: -26%;    
+        right: -15%;
+    }
+
+    /* Business Icon Section */
+    #business-inner {
+        padding: 5% 3%;
+    }
+    .business-icons .img-responsive {
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+    } 
 }
