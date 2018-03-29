@@ -708,6 +708,7 @@ footer {
     }
     #connect {
         margin-top: 5%;
-        margin-right: -5%;
+        margin-right: -10%;
+        padding-right: -10%
     }
 }
