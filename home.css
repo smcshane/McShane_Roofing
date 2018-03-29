@@ -628,11 +628,11 @@ footer {
         color: rgb(27, 28, 100);
     }
     .grid-content h3 {
-        font-size: 38px;
+        font-size: 40px;
         padding-bottom: 7%;
     }
     .grid-content h5 {
-        font-size: 24px;
+        font-size: 22px;
         color: #000;
     }
     i {
@@ -676,25 +676,19 @@ footer {
 
 
     #second-section .right {
-        transform: rotate(-45deg);
-        -webkit-transform: rotate(-45deg);
-        float: right;
         margin-top: -50%;
-        margin-right: -20%;
+        margin-right: -10%;
     }
     
     #second-section .left {
-        transform: rotate(135deg);
-        -webkit-transform: rotate(135deg);
-        float: left;
         margin-top: 50%;
-        margin-left: -40%;
+        margin-left: -10%;
     }
     
     .up {
         transform: rotate(-135deg);
         -webkit-transform: rotate(-135deg);
-        margin-left: 45%;
+        margin-left: 48%;
         margin-top: -5%;
     }
     
@@ -702,6 +696,6 @@ footer {
         transform: rotate(45deg);
         -webkit-transform: rotate(45deg);
         margin-left: 45%;
-        margin-bottom: -5%;
+        margin-bottom: -8%;
     }
 }
