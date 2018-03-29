@@ -697,7 +697,8 @@ footer {
         margin-right: auto;
     } 
     footer .container {
-        margin-left: 4%;
+        margin-left: 3%;
+        margin-right: -5%;
     }
     .footer-content {
         font-size: 20px;
