@@ -711,4 +711,9 @@ footer {
     #footer-about {
         margin-top: 15%;
     }
+    #copyright  {
+        color: #90918c;
+        font-size: 20px;
+        margin-top: 8%;
+    }
 }
