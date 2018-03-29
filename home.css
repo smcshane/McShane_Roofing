@@ -618,9 +618,8 @@ footer {
         margin-top: 7%;
     }
     #second-inner {
-        margin-top: 6%;
-        margin-bottom: 6%;
-        padding: 0 -3%;
+        margin: 6% -3%;
+        padding: 0 0;
         overflow: hidden;
     }
     .grid-content {
