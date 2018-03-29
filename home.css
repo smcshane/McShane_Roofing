@@ -667,10 +667,10 @@ footer {
     
     /* Business Icon Section */
     #business-inner {
-        padding: 5% 10%;
+        padding: 5% 5%;
     }
     .business-icons .img-responsive {
-        width: 100%;
+        width: 80%;
         margin-left: auto;
         margin-right: auto;
     } 
