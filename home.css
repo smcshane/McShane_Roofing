@@ -693,4 +693,8 @@ footer {
         margin-left: auto;
         margin-right: auto;
     } 
+
+    footer {
+        padding: 0 -5% 1% 0;
+    }
 }
