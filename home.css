@@ -624,7 +624,7 @@ footer {
         overflow: hidden;
     }
     .grid-content {
-        padding: 10% 15% 0 15%;
+        padding: 10% 16% 0 16%;
         color: rgb(27, 28, 100);
     }
     .grid-content h3 {
@@ -641,22 +641,20 @@ footer {
         padding: 7px;
     }
     #second-section .right {
-        margin-top: -50%;
+        margin-top: -45%;
         margin-right: -10%;
     }
-    
     #second-section .left {
         margin-top: 50%;
         margin-left: -12%;
     }
-    
     .up {
         transform: rotate(-135deg);
         -webkit-transform: rotate(-135deg);
         margin-left: 48%;
         margin-top: -5%;
+        margin-bottom: -2%;
     }
-    
     .down {
         transform: rotate(45deg);
         -webkit-transform: rotate(45deg);
