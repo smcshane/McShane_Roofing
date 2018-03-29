@@ -509,7 +509,6 @@ footer {
 
 @media only screen and (min-width: 320px) and (max-width: 600px), (orientation: portrait) {
     #row2 .col-md-5 {
-        margin-left: -5%;
         padding-right: -5%;
     }
     /* either one ^ */
