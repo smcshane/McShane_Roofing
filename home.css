@@ -613,12 +613,17 @@ footer {
         display: block;
         width: 100%;
         padding-top: 2%;
-        font-size: 45px;
+        position: center;
+        float: center;
     }
     .icons {
         display: block;
         margin: auto;
         text-align: center;
+    }
+    .icons p {
+        color: #787e80;
+        font-size: 40px;
     }
 
     /* Collage Section */
