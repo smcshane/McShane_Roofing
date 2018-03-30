@@ -519,9 +519,9 @@ footer {
         padding: 1% 3%;
     }
     #logo img {
-        width: 80%;
-        padding: 2% 0;
-        margin-left: 15%;
+        width: 90%;
+        padding: 5% 0;
+        margin-left: 10%;
     }
     #home-jumbotron #title-main {
         margin-left: 25%;
@@ -586,7 +586,7 @@ footer {
         font-size: 45px;
     }
     h4 {
-        font-size: 44px;
+        font-size: 30px;
     }
 
     /* Icon Section */
@@ -596,12 +596,15 @@ footer {
         height: 6px;
         position: relative;
         width: 10%;
-        margin-left: 47.5%;
+        margin-left: 45%;
         margin-top: 1%;
     }
     #first-section {
         margin-top: 6%;
         margin-bottom: -6%;
+    }
+    #first-section h2 {
+        margin-bottom: 2%;
     }
     .icons .img-responsive {
         width: 40%;
@@ -613,13 +616,15 @@ footer {
         display: block;
         width: 100%;
         padding-top: 2%;
-        position: center;
-        text-align: center;
+        float: center;
     }
     .icons {
         display: block;
         margin: auto;
         text-align: center;
+    }
+    .icons h4 {
+        font-size: 46px;
     }
     .icons p {
         color: #787e80;
@@ -695,6 +700,12 @@ footer {
     #third-inner .right {
         margin-top: -26%;    
         right: -15%;
+    }
+    .item blockquote img {
+        padding-right: 4%;
+        border: solid;
+        border-color: #e2e2e2;
+        border-width: 5px;
     }
 
     /* Business Icon Section */
