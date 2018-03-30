@@ -512,7 +512,7 @@ footer {
 
 @media only screen and (min-width: 320px) and (max-width: 600px), (orientation: portrait) {
     #row2 .col-md-5 {
-        padding-right: -5%;
+        padding-right: -10%;
     }
     .btn-primary { 
         font-size: 40px;
@@ -523,6 +523,9 @@ footer {
         padding: 5% 0;
         margin-left: 10%;
     }
+    #home-jumbotron {
+        margin-top: 10%;
+      }
     #home-jumbotron #title-main {
         margin-left: 25%;
         margin-top: 25%;
@@ -583,7 +586,7 @@ footer {
         z-index: 0;
     }
     h2 {
-        font-size: 45px;
+        font-size: 48px;
     }
     h4 {
         font-size: 32px;
@@ -608,7 +611,6 @@ footer {
     }
     .icons .img-responsive {
         width: 40%;
-        margin-top: 5%;
         margin-left: auto;
         margin-right: auto;
         float: center;
@@ -623,9 +625,10 @@ footer {
         display: block;
         margin: auto;
         text-align: center;
+        margin-top: 8%;
     }
     .icons h4 {
-        font-size: 50px;
+        font-size: 52px;
     }
     .icons p {
         color: #787e80;
@@ -702,15 +705,14 @@ footer {
         right: -15%;
     }
     .item blockquote img {
-        padding-right: 6%;
+        padding-right: 8%;
         border: solid;
         border-color: #e2e2e2;
-        border-width: 5px;
     }
     .item blockquote {
         border-left: none; 
         margin: 0;
-        font-size: 28px;
+        font-size: 30px;
     }
 
     /* Business Icon Section */
