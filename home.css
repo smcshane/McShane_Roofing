@@ -514,8 +514,10 @@ footer {
     #row2 .col-md-5 {
         padding-right: -5%;
     }
-    /* either one ^ */
-
+    .btn-primary { 
+        font-size: 35px;
+        padding: 1% 3%;
+    }
     #logo img {
         width: 60%;
         padding: 2% 0;
@@ -601,12 +603,8 @@ footer {
         margin-top: 6%;
         margin-bottom: -6%;
     }
-    .icons p {
-        color: #787e80;
-        font-size: 32px;
-    }
     .icons .img-responsive {
-        width: 50%;
+        width: 40%;
         margin-left: auto;
         margin-right: auto;
         float: center;
@@ -614,9 +612,8 @@ footer {
     .icon-text {
         display: block;
         width: 100%;
-        padding-left: 5%;
         padding-top: 2%;
-        font-size: 40px;
+        font-size: 45px;
     }
     .icons {
         display: block;
