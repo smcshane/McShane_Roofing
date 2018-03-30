@@ -586,6 +586,8 @@ footer {
     h4 {
         font-size: 30px;
     }
+
+    /* Icon Section */
     #first-section h2:after, #second-section h2:after, #third-section h2:after {
         content: "";
         display: block;
@@ -605,6 +607,7 @@ footer {
     }
     .icons .img-responsive {
         width: 30%;
+
         margin-left: auto;
         margin-right: auto;
         float: center;
@@ -614,6 +617,12 @@ footer {
         width: 70%;
         padding-left: 5%;
         padding-top: 2%;
+        font-size: 40px;
+    }
+    .icons {
+        display: block;
+        margin: auto;
+        text-align: center;
     }
 
     /* Collage Section */
