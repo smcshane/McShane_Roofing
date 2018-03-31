@@ -517,8 +517,9 @@ footer {
     }
     #logo img {
         width: 90%;
-        padding: 5% 0;
-        margin-left: 10%;
+        padding: 7% 0;
+        margin-left: 15%;
+        padding-right: 10%;
     }
     #home-jumbotron {
         margin-top: 10%;
