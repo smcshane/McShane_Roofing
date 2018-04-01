@@ -68,7 +68,7 @@
     #main-inner {
         margin-top: 8%;
         margin-bottom: 8%;
-        padding: 0;
+        padding: 0 -2%;
     }
     #main-section h3 {
         font-size: 46px;
@@ -78,5 +78,6 @@
     #main-section p {
         font-size: 38px;
         margin-top: 5%;
+        line-height: 1.2;
     }
 }
