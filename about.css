@@ -75,12 +75,13 @@
         text-align: center;
     }
     #main-section h3 {
-        font-size: 48px;
+        font-size: 50px;
         margin-top: 5%;
+        text-decoration: underline;
     }
     #main-section p {
         font-size: 40px;
         margin-top: 5%;
-        line-height: 1.2;
+        line-height: 1.3;
     }
 }
