@@ -100,10 +100,10 @@ input[type=submit]:hover {
         position: absolute;
         left: 5%;
     }
-    #map-contact .contact-info {
+    #map-contact #contact-info {
         margin-right: 5%;
         position: absolute;
-        left: 20%;
+        right: 5%;
     }
     #contact-info h4 { 
         font-size: 30px;
