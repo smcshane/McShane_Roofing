@@ -95,15 +95,15 @@ input[type=submit]:hover {
         display: inline-block;
     }
     #map-contact #map {
-        margin-top: 15%;
-        margin-bottom: 80%;
+        margin-top: 50px;
+        margin-bottom: 500px;
         position: absolute;
-        left: 5%;
+        left: 100px;
     }
     #map-contact #contact-info {
         margin-right: 5%;
         position: absolute;
-        left: 55%;
+        left: 200px;
     }
     #contact-info h4 { 
         font-size: 30px;
