@@ -68,15 +68,15 @@
     #main-inner {
         margin-top: 8%;
         margin-bottom: 8%;
-        padding: 0 2%;
+        padding: 0;
     }
     #main-section h3 {
-        font-size: 40px;
+        font-size: 46px;
         margin-top: 5%;
     }
     
     #main-section p {
-        font-size: 32px;
+        font-size: 38px;
         margin-top: 5%;
     }
 }
