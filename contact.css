@@ -96,14 +96,14 @@ input[type=submit]:hover {
     }
     #map-contact #map {
         margin-top: 50px;
-        margin-bottom: 500px;
+        padding-bottom: 500px;
         position: absolute;
-        left: 100px;
+        left: 50px;
     }
     #map-contact #contact-info {
         margin-right: 5%;
         position: absolute;
-        left: 200px;
+        right: 50px;
     }
     #contact-info h4 { 
         font-size: 30px;
