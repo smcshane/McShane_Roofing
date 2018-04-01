@@ -87,7 +87,8 @@
     /* Coverage Banner */
 
     #coverage-banner {
-        margin-top: 3%;
+        margin-top: 5%;
+        margin-bottom: 2%;
         text-align: center;
     }
     #coverage-banner iframe {
@@ -96,14 +97,17 @@
     }
     #coverage-banner h3 {
         font-size: 54px;
+        margin-top: 4%;
     }
     #coverage-banner p {
         margin-top: 7%;
         font-size: 40px;
-        padding-right: 0;
+        padding: 0 2%;
     }
     .contact-details {
         margin-top: 10%;
+    }
+    .contact-details h4 {
         font-size: 40px;
     }
 }

@@ -56,9 +56,28 @@
     #services-jumbotron {
         margin-top: 10%;
     }
+    #services-main {
+        margin-top: 0;
+    }
     #services-inner {
-        margin-top: 2%;
-        margin-bottom: 5%;
-        padding: 0 2%;
+        margin-top: 8%;
+        margin-bottom: 8%;
+        padding: 0;
+    }
+    .nav-tabs .nav-title {
+        font-size: 44px;
+    }
+    .tab-content h3 {
+        margin-top: 7%;
+        font-size: 54px;
+    }
+    .services-image {
+        min-height: 270px;
+        max-height: 500px;
+    }
+    .tab-content p {
+        font-size: 40px;
+        margin-top: 7%;
+        line-height: 1.3;
     }
 }
