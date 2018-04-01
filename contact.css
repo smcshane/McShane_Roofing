@@ -103,7 +103,7 @@ input[type=submit]:hover {
     #map-contact .contact-info {
         margin-right: 5%;
         position: absolute;
-        right: 5%;
+        left: 20%;
     }
     #contact-info h4 { 
         font-size: 30px;
