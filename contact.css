@@ -87,12 +87,16 @@ input[type=submit]:hover {
     #form-bottom {
         padding: 0 3%;
     }
-    
     /* Submit Button */
     input[type=submit] {
         padding: 18px 20px;
     }
-
+    #map-address {
+        display: inline-block;
+    }
+    #contact-info {
+        display: inline-block;
+    }
     #contact-info h4 { 
         font-size: 40px;
     }
