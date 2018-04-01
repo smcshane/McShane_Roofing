@@ -66,7 +66,7 @@
         margin-top: 10%;
     }
     #main-section {
-        margin: -3% -5% 0 -5%;
+        margin-top: -3%;
     }
     #main-inner {
         margin-top: 8%;
@@ -74,12 +74,12 @@
         padding: 0;
     }
     #main-section h3 {
-        font-size: 46px;
+        font-size: 48px;
         margin-top: 5%;
     }
     
     #main-section p {
-        font-size: 38px;
+        font-size: 40px;
         margin-top: 5%;
         line-height: 1.2;
     }
