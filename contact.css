@@ -91,10 +91,7 @@ input[type=submit]:hover {
     input[type=submit] {
         padding: 18px 20px;
     }
-    #map-address {
-        display: inline-block;
-    }
-    #contact-info {
+    #map-contact {
         display: inline-block;
     }
     #contact-info h4 { 
