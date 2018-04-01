@@ -521,8 +521,8 @@ footer {
         margin-bottom: 5%;
     }
     #logo img {
-        width: 95%;
-        padding: 7% 16% 0 0;
+        width: 100%;
+        padding: 8% 20% 0 0;
         margin-left: 15%;
     }
     .about-img, .services-image {
@@ -702,7 +702,7 @@ footer {
         margin-top: 4%;
     }
     .carousel-inner {
-        height: 280px;
+        height: 300px;
     }
     #third-inner h4 {
         padding-top: 1%;
@@ -721,10 +721,11 @@ footer {
     }
     .item blockquote img {
         border-color: #e2e2e2;
+        margin-left: -5%;
     }
     .item blockquote {
         border-left: none; 
-        margin-left: 5%;
+        margin-left: 8%;
         font-size: 30px;
     }
 

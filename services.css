@@ -71,6 +71,11 @@
     .nav-tabs {
         border-bottom: 3px solid;        
     }
+    .nav-tabs > .active > a {
+        border-bottom: none;
+        position: relative;
+        top: 3px;
+    }
     .nav-tabs .nav-title {
         font-size: 46px;
     }
