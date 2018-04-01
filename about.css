@@ -70,4 +70,13 @@
         margin-bottom: 8%;
         padding: 0 2%;
     }
+    #main-section h3 {
+        font-size: 40px;
+        margin-top: 5%;
+    }
+    
+    #main-section p {
+        font-size: 32px;
+        margin-top: 5%;
+    }
 }
