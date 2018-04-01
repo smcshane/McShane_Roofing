@@ -72,12 +72,12 @@
         margin-top: 8%;
         margin-bottom: 8%;
         padding: 0;
+        text-align: center;
     }
     #main-section h3 {
         font-size: 48px;
         margin-top: 5%;
     }
-    
     #main-section p {
         font-size: 40px;
         margin-top: 5%;
