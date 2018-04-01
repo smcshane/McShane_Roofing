@@ -65,11 +65,13 @@
     #about-jumbotron {
         margin-top: 10%;
     }
+    #main-section {
+        margin: -3% -5% 0 -5%;
+    }
     #main-inner {
         margin-top: 8%;
         margin-bottom: 8%;
         padding: 0;
-        box-sizing: border-box;
     }
     #main-section h3 {
         font-size: 46px;
