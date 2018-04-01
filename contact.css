@@ -95,11 +95,14 @@ input[type=submit]:hover {
         display: inline-block;
     }
     #map-contact iframe {
-        float: left;
         margin-top: 12%;
+        position: absolute;
+        left: 5%;
     }
     #map-contact .contact-info {
-        float: right;
+        margin-right: 5%;
+        position: absolute;
+        right: 150px;
     }
     #contact-info h4 { 
         font-size: 30px;
