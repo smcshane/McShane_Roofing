@@ -703,7 +703,7 @@ footer {
     }
     .carousel-inner {
         height: 300px;
-        margin-left: 5%;
+        margin-left: -5%;
     }
     #third-inner h4 {
         padding-top: 1%;
@@ -725,7 +725,6 @@ footer {
     }
     .item blockquote {
         border-left: none; 
-        margin-left: 15%;
         font-size: 30px;
     }
 
