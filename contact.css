@@ -75,7 +75,7 @@ input[type=submit]:hover {
         margin-top: 12%;
     }
     #main-inner {
-        padding: 0 0;
+        padding: 0 0 20% 0;
     }
     /* Contact form */
     #contact-form {
@@ -95,15 +95,13 @@ input[type=submit]:hover {
         display: inline-block;
     }
     #map-contact #map {
-        margin-top: 50px;
-        padding-bottom: 500px;
         position: absolute;
-        left: 50px;
+        left: 30px;
     }
     #map-contact #contact-info {
         margin-right: 5%;
         position: absolute;
-        right: 50px;
+        left: 500px;
     }
     #contact-info h4 { 
         font-size: 30px;
