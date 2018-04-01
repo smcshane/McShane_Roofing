@@ -75,14 +75,15 @@ input[type=submit]:hover {
         margin-top: 12%;
     }
     #main-inner {
-        padding: 0 0 20% 0;
+        padding: 0 0 25% 0;
     }
     /* Contact form */
     #contact-form {
         border-radius: 12px;
-        padding: 5% 0;
+        padding: 25px;
         box-shadow: 0px 8px 20px rgba(0,0,0,0.4);
         font-size: 37px;
+        margin-bottom: 5%;
     }
     #form-bottom {
         padding: 0 3%;
@@ -96,12 +97,12 @@ input[type=submit]:hover {
     }
     #map-contact #map {
         position: absolute;
-        left: 30px;
+        left: 20px;
     }
     #map-contact #contact-info {
         margin-right: 5%;
         position: absolute;
-        left: 400px;
+        left: 450px;
     }
     #contact-info h4 { 
         font-size: 20px;
