@@ -94,6 +94,12 @@ input[type=submit]:hover {
     #map-contact {
         display: inline-block;
     }
+    #map-contact iframe {
+        float: left;
+    }
+    #map-contact .contact-info {
+        float: right;
+    }
     #contact-info h4 { 
         font-size: 40px;
     }
