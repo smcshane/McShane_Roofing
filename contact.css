@@ -94,7 +94,7 @@ input[type=submit]:hover {
     #map-contact {
         display: inline-block;
     }
-    #map-contact iframe {
+    #map-contact #map {
         margin-top: 15%;
         margin-bottom: 80%;
         position: absolute;
