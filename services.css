@@ -25,6 +25,10 @@
 
 .nav-tabs .nav-title {
     font-size: 20px;
+    color: #90918c;
+}
+
+.nav-tabs .active {
     color: rgb(27, 28, 100);
 }
 
@@ -54,7 +58,7 @@
 
 @media only screen and (min-width: 320px) and (max-width: 600px), (orientation: portrait) {
     #services-jumbotron {
-        margin-top: 10%;
+        margin-top: 12%;
     }
     #services-main {
         margin-top: 0;

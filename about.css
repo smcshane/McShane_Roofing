@@ -63,7 +63,7 @@
 
 @media only screen and (min-width: 320px) and (max-width: 600px), (orientation: portrait) {
     #about-jumbotron {
-        margin-top: 10%;
+        margin-top: 12%;
     }
     #main-section {
         margin-top: -3%;
