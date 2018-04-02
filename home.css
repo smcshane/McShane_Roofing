@@ -522,7 +522,7 @@ footer {
     }
     #logo img {
         width: 100%;
-        padding: 4% 0 0 0;
+        padding: 6% 0 2% 0;
         margin-left: 15%;
     }
     .about-img, .services-image {
@@ -653,7 +653,7 @@ footer {
     }
     #second-inner {
         margin-top: 6%;
-        margin-bottom: 6%;
+        margin-bottom: 8%;
         padding: 0 0;
         overflow: hidden;
     }
@@ -696,7 +696,7 @@ footer {
         margin-bottom: -8%;
     }
     #resources-btn {
-        margin-bottom: 7%;
+        margin-bottom: 8%;
     }
 
     /* Third Section - Testimonails */
@@ -716,11 +716,11 @@ footer {
         font-size: 24px;
     }
     #third-inner .left {
-        margin-top: -35%;
+        margin-top: -50%;
         left: -15%;
     }
     #third-inner .right {
-        margin-top: -33%;    
+        margin-top: -48%;    
         right: -15%;
     }
     .item blockquote img {
