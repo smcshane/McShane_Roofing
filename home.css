@@ -522,8 +522,8 @@ footer {
     }
     #logo img {
         width: 100%;
-        padding: 8% 0 0 0;
-        margin-left: 15%;
+        padding: 4% 0 0 0;
+        margin-left: 10%;
     }
     .about-img, .services-image {
         width: 100%;
@@ -653,7 +653,7 @@ footer {
     }
     #second-inner {
         margin-top: 6%;
-        margin-bottom: 6%;
+        margin-bottom: 8%;
         padding: 0 0;
         overflow: hidden;
     }
@@ -702,7 +702,7 @@ footer {
         margin-top: 4%;
     }
     .carousel-inner {
-        height: 300px;
+        height: 340px;
         margin-left: -3%;
     }
     #third-inner h4 {
@@ -713,11 +713,11 @@ footer {
         font-size: 24px;
     }
     #third-inner .left {
-        margin-top: -28%;
+        margin-top: -35%;
         left: -15%;
     }
     #third-inner .right {
-        margin-top: -26%;    
+        margin-top: -33%;    
         right: -15%;
     }
     .item blockquote img {
