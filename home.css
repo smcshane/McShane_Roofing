@@ -703,7 +703,7 @@ footer {
     }
     .carousel-inner {
         height: 300px;
-        margin-left: -4%;
+        margin-left: -3%;
     }
     #third-inner h4 {
         padding-top: 1%;
@@ -726,7 +726,7 @@ footer {
     .item blockquote {
         border-left: none; 
         font-size: 30px;
-        padding-left: 5%;
+        padding-left: 8%;
     }
 
     /* Business Icon Section */
