@@ -653,7 +653,7 @@ footer {
     }
     #second-inner {
         margin-top: 6%;
-        margin-bottom: 8%;
+        margin-bottom: 6%;
         padding: 0 0;
         overflow: hidden;
     }
@@ -694,6 +694,9 @@ footer {
         -webkit-transform: rotate(45deg);
         margin-left: 45%;
         margin-bottom: -8%;
+    }
+    #resources-btn {
+        margin-bottom: 7%;
     }
 
     /* Third Section - Testimonails */
