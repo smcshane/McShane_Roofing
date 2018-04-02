@@ -64,9 +64,11 @@
         margin-bottom: 8%;
         padding: 0;
     }
+    .nav-tabs {
+        border-width: 3px;        
+    }
     .nav-tabs .nav-title {
         font-size: 46px;
-        border-width: 3px;
     }
     .tab-content h3 {
         margin-top: 7%;
