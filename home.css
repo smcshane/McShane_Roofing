@@ -117,14 +117,16 @@ section {
 
 #message {
     display: inline-block;
-    font-size: 15px;
+    font-size: 16px;
     color:#fff;
+    margin-left: -2%;
 }
 
 #phone-btn {
     display: inline-block;
-    font-size: 15px;
+    font-size: 16px;
     color:#fff;
+    margin-left: -2%;
 }
 
 #phone-btn:hover {
