@@ -115,16 +115,21 @@ section {
     background-color: rgba(27, 28, 100, 0.9);
 }
 
-#phone-btn {
+#row1 p {
     display: inline-block;
     font-size: 15px;
     margin-left: 2%;
     margin-right: 2%;
+}
+
+#phone-btn {
+    display: inline-block;
+    font-size: 15px;
     color:#fff;
 }
 
 #phone-btn:hover {
-    background-color: rgba(27, 28, 100, 1);
+    background-color: rgb(14, 15, 53);
     color: #fff;
 }
 
