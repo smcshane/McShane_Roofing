@@ -590,13 +590,15 @@ footer {
     #message {
         display: inline-block;
         font-size: 28px;
-        margin-left: 0;
+        margin-left: 2%;
         display: right;
     }
     #phone-btn {
         display: inline-block;
         font-size: 34px;
         display: right;
+        padding: 1% 1.5%;
+        margin-left: 0;
     }
     .secondary-filter {
         left: 0;
