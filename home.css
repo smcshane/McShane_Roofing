@@ -587,12 +587,15 @@ footer {
         border-right: solid 2px #a1a5a7;
         border-left: solid 2px #a1a5a7;
     }
+    #message {
+        display: inline-block;
+        font-size: 28px;
+        margin-left: 0;
+        display: right;
+    }
     #phone-btn {
         display: inline-block;
-        font-size: 30px;
-        margin-left: 2%;
-        margin-right: 2%;
-        color:#fff;
+        font-size: 34px;
         display: right;
     }
     .secondary-filter {
