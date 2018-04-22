@@ -119,14 +119,15 @@ section {
     display: inline-block;
     font-size: 16px;
     color:#fff;
-    margin-left: -5%;
+    margin-left: -8%;
 }
 
 #phone-btn {
     display: inline-block;
     font-size: 18px;
     color:#fff;
-    margin-left: -3%;
+    margin-left: -2%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
 #phone-btn:hover {
