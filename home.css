@@ -115,7 +115,7 @@ section {
     background-color: rgba(27, 28, 100, 0.9);
 }
 
-#message {
+#row1 #message {
     display: inline-block;
     font-size: 15px;
     margin-left: 2%;
