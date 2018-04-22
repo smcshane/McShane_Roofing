@@ -115,13 +115,10 @@ section {
     background-color: rgba(27, 28, 100, 0.9);
 }
 
-#row1 #message {
+#message {
     display: inline-block;
     font-size: 15px;
-    margin-left: 2%;
-    margin-right: 2%;
     color:#fff;
-    padding: 2% 0 -2% 0;
 }
 
 #phone-btn {
